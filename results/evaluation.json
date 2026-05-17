@@ -1,0 +1,98 @@
+[
+  {
+    "system": "qho",
+    "noise_level": 0.0,
+    "r2": 0.9988,
+    "rmse": 0.007791,
+    "mae": 0.005876,
+    "true_equation": "E = hbar * omega * (n + 0.5)"
+  },
+  {
+    "system": "qho",
+    "noise_level": 0.01,
+    "r2": 0.9968,
+    "rmse": 0.012875,
+    "mae": 0.009917,
+    "true_equation": "E = hbar * omega * (n + 0.5)"
+  },
+  {
+    "system": "qho",
+    "noise_level": 0.05,
+    "r2": 0.9765,
+    "rmse": 0.033687,
+    "mae": 0.022123,
+    "true_equation": "E = hbar * omega * (n + 0.5)"
+  },
+  {
+    "system": "qho",
+    "noise_level": 0.1,
+    "r2": 0.9468,
+    "rmse": 0.046293,
+    "mae": 0.030076,
+    "true_equation": "E = hbar * omega * (n + 0.5)"
+  },
+  {
+    "system": "hydrogen",
+    "noise_level": 0.0,
+    "r2": 0.9998,
+    "rmse": 0.004157,
+    "mae": 0.002897,
+    "true_equation": "E = -13.6 / n^2"
+  },
+  {
+    "system": "hydrogen",
+    "noise_level": 0.01,
+    "r2": 0.9998,
+    "rmse": 0.003649,
+    "mae": 0.001921,
+    "true_equation": "E = -13.6 / n^2"
+  },
+  {
+    "system": "hydrogen",
+    "noise_level": 0.05,
+    "r2": 0.9963,
+    "rmse": 0.015525,
+    "mae": 0.005765,
+    "true_equation": "E = -13.6 / n^2"
+  },
+  {
+    "system": "hydrogen",
+    "noise_level": 0.1,
+    "r2": 0.9839,
+    "rmse": 0.028964,
+    "mae": 0.014271,
+    "true_equation": "E = -13.6 / n^2"
+  },
+  {
+    "system": "de_broglie",
+    "noise_level": 0.0,
+    "r2": 0.9979,
+    "rmse": 0.006189,
+    "mae": 0.004438,
+    "true_equation": "lambda = h / (mass * velocity)"
+  },
+  {
+    "system": "de_broglie",
+    "noise_level": 0.01,
+    "r2": 0.9979,
+    "rmse": 0.006152,
+    "mae": 0.004443,
+    "true_equation": "lambda = h / (mass * velocity)"
+  },
+  {
+    "system": "de_broglie",
+    "noise_level": 0.05,
+    "r2": 0.9965,
+    "rmse": 0.007943,
+    "mae": 0.006227,
+    "true_equation": "lambda = h / (mass * velocity)"
+  },
+  {
+    "system": "de_broglie",
+    "noise_level": 0.1,
+    "r2": 0.9862,
+    "rmse": 0.015621,
+    "mae": 0.010719,
+    "true_equation": "lambda = h / (mass * velocity)"
+  }
+]
