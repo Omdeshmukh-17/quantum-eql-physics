@@ -261,9 +261,8 @@ sympy>=1.12.0
 Department of Computer Science and Engineering
 Pandit Deendayal Energy University, Gandhinagar, Gujarat, India
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-
+[![GitHub](https://img.shields.io/badge/GitHub-Omdeshmukh--17-181717?style=flat&logo=github)](https://github.com/Omdeshmukh-17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/omdeshmukh17092005)
 ---
 
 *This project was developed as part of an independent research portfolio exploring Scientific Machine Learning — specifically the use of neural networks to discover symbolic mathematical laws from physical observations.*
