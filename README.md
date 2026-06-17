@@ -103,7 +103,7 @@ python -m ipykernel install --user --name=eqdiscovery
 jupyter notebook notebook/equation_discovery.ipynb
 ```
 
-Select the `Python (eqdiscovery)` kernel and run all cells in order. Total runtime on a CPU laptop (Intel i7) is roughly 1.5–2 hours, dominated by the three DSR training runs at ~25 minutes each.
+Select the `Python (eqdiscovery)` kernel and run all cells in order. Total runtime on a CPU laptop (Intel i7) is roughly 1.5–2 hours.
 
 ## References
 
@@ -112,4 +112,4 @@ Select the `Python (eqdiscovery)` kernel and run all cells in order. Total runti
 
 ## Author
 
-Om Deshmukh — B.Tech CSE, Pandit Deendayal Energy University. This project is part of a portfolio targeting MSc admissions in Machine Learning / AI for Science programs.
+Om Deshmukh — B.Tech CSE, Pandit Deendayal Energy University. 
