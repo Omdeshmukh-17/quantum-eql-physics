@@ -1,0 +1,4 @@
+problem,true_formula,train_R²,val_R²,best_epoch,final_L1,structure_recovered
+QHO,E = ω(n + 1/2),0.99891,0.99914,340,2.888,"partial — ω·n term found, 0.5·ω absorbed into bias"
+Hydrogen,E = -1/n²,0.9993,0.9996,129,2.018,partial — uses 1/n + sin combo to approximate 1/n²
+De Broglie,λ = 1/p,0.99954,0.9991,348,2.712,"approximate — log relation outside primitive set, model fits via inv + corrections"
